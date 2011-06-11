@@ -26,7 +26,7 @@ Bluetooth remote control programs gAnyRemote is not limited to
 SonyEricsson or JSR-82 capable phones. It was developed as just thin
 "communication" layer beetween bluetooth-capabled phone and Linux, and
 in principle could be configured to manage any software. But Bluetooth
-is not the only way to use it. kAnyRemote could be used with:
+is not the only way to use it. gAnyRemote could be used with:
 - IR-capabled phone
 - with cable connection
 - it could accept incoming connection from network
